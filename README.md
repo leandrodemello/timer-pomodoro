@@ -1,6 +1,6 @@
-# Olá Devs 👋
+#Olá Devs 👋
 
-# Esse é o FocusTimer Pomodoro!
+#Esse é o FocusTimer Pomodoro!
 
 Um cronômetro feito para te ajudar nos estudos usando a técnica Pomodoro. Supõe que você estude durante 25 minutos e tenha seu tempo livre por 5 minutos, depois repita. Isso vai te ajudar a manter o foco e melhorar seus estudos.
 
